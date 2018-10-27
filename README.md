@@ -1,0 +1,2 @@
+# shadow-robot-arm
+Shadow robotic arm is IoT based project developed to do an set of operations repeatedly as per the training  The list of hardware components used in this projects “Arduino Uno , l298 , servo motor ,switch ”  The list of software used in this project are “ Proteus , Arduino ide ”  The button is pressed and an training data is been got from the user as per their requirement.The execution button is pressed to do that set of operation repeatedly until the command to stop
